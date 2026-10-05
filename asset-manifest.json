@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shopzone-React/static/css/main.60e4c994.css",
+    "main.js": "/Shopzone-React/static/js/main.b1e23b6b.js",
+    "index.html": "/Shopzone-React/index.html",
+    "main.60e4c994.css.map": "/Shopzone-React/static/css/main.60e4c994.css.map",
+    "main.b1e23b6b.js.map": "/Shopzone-React/static/js/main.b1e23b6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e4c994.css",
+    "static/js/main.b1e23b6b.js"
+  ]
+}
